@@ -5,7 +5,7 @@ public class Staw extends Cake {
 
 	
 	public Staw(){
-		flavor = "Stawberry" ;
+		flavor = "Stawberry Cake" ;
 	}
 	@Override
 	public double cost() {

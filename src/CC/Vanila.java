@@ -4,7 +4,7 @@ public class Vanila extends Cake {
 
 	
 	public Vanila(){
-		flavor = "vanila" ;
+		flavor = "vanila Cake" ;
 	}
 	@Override
 	public double cost() {

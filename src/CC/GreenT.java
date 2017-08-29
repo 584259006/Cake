@@ -4,7 +4,7 @@ public class GreenT extends Cake {
 
 	
 	public GreenT (){
-		flavor = "Green Tea" ;
+		flavor = "Green Tea Cake" ;
 	}
 	@Override
 	public double cost() {
